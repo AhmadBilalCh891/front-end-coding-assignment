@@ -1,0 +1,35 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  margin-right: 15px;
+  margin-top: 20px;
+  margin-left: 10px;
+  background: #008b58;
+  width: 180px;
+  height: 40px;
+}
+
+.checkbox
+{
+  margin-top: 46px;
+}
+.button
+{
+  height: 70px;
+  width: 80px;
+  margin-top: 25px;
+}
+
+.inner-container
+{
+  display: flex
+}
+
+.card-container
+{
+  /* display: flex; */
+  display: inline-table;
+  margin-top: 40px;
+  margin-left: 10px;
+}
